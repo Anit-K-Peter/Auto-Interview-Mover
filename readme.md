@@ -23,7 +23,6 @@ This bot functions as a manager for voice channels, primarily for conducting int
 
 ## 🤝 Supporters and Contributors
 
-- Supported By [TEAM God Dc Developers](https://discord.gg/apF2ZBXZVF)
 - **Sub-Developers**: damn.itx.fazy & n0t.see
 - **Helpers**: santa_.k
 
