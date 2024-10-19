@@ -7,7 +7,7 @@
 
 const status = "AUTOMATIC";
 const botName = "Custom Voice Bot";
-const Text = "God Dc Developer";
+const Text = "Bless";
 const version = "Latest@ v20.12.2"; 
 const startTime = Date.now();
 
